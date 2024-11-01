@@ -8,10 +8,10 @@ load_dotenv()
 
 # Get this value from my.telegram.org/apps
 API_ID = API_ID
-API_HASH = "API_HASH"
+API_HASH = "API_HASH"7272596036:e3edce9ee5fa2f5c346be9a213a8dab4
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = "BOT_TOKEN"
+BOT_TOKEN = "BOT_TOKEN"7272596036:AAEfJn4xqPva9D1lUvm4tt-kflDeoLqqZ3k
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = "MONGO_DB_URI"
@@ -22,7 +22,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 LOG_GROUP_ID = LOG_GROUP_ID
 
 # Get this value from @ultron2_robot on Telegram by /id
-OWNER_ID = OWNER_ID
+OWNER_ID = OWNER_ID5603666018
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -39,9 +39,9 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = "https://t.me/thanos_pro"
+SUPPORT_CHANNEL = "https://t.me/thanos_pro"https://t.me/New_movies_sauth1
 SUPPORT_GROUP = "https://t.me/thanosprosss"
-
+https://t.me/story_discason
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 
